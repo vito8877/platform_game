@@ -1,0 +1,1 @@
+<a href="phpstorm://open?url=///test.php&line=1">{file}:{line}</a>'
